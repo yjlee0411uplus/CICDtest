@@ -8,6 +8,7 @@ public class Add2
 
 		int x;
 		int y;
+		int z;
 		int sum;
 
 		System.out.print("1st Int: ");
@@ -16,7 +17,10 @@ public class Add2
 		System.out.print("2nd Int: ");
 		y = input.nextInt();
 
-		sum = x + y;
+		System.out.print("3rd Int: ");
+		z = input.nextInt();
+
+		sum = x + y + z;
 
 		System.out.println(sum);
 		input.close();
