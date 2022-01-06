@@ -28,5 +28,6 @@ public class add2
 		System.out.println(sum);
 		System.out.pringln(" ");
 //		input.close();
+//		System.out.println("");
 	}
 }
