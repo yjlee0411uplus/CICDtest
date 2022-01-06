@@ -25,7 +25,7 @@ public class add2
 		sum = x + y + z;
 
 		System.out.println(" ");
-		System.out.println("SUM: " + sum);
+		System.out.println(sum);
 		System.out.pringln(" ");
 //		input.close();
 	}
