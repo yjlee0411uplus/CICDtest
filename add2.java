@@ -7,9 +7,9 @@ public class add2
 //		System.out.print("hello world");
 //		Scanner input = new Scanner(System.in);
 
-		int x;
-		int y;
-		int z;
+		int x = 10;
+		int y = 20;
+		int z = 30;
 		int sum;
 
 		System.out.print("x: 10");
