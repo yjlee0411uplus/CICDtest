@@ -27,7 +27,7 @@ public class App {
 
 	System.out.println(" ");
 	System.out.println(sum);
-	System.out.pringln(" ");
+	System.out.println(" ");
 //	input.close();
 //	System.out.println("");
 //
@@ -35,7 +35,6 @@ public class App {
 
     public static void main(String[] args) {
         add2();
-	System.out.println("Error Fetching ver4!");
     }
 }
 
