@@ -14,7 +14,7 @@ public class App {
 	sum = x + y + z;
 
 	System.out.println(" ");
-	System.out.println("sum: ", sum);
+	System.out.println("sum: "+sum);
 	System.out.println(" ");
     }
 
