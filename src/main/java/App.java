@@ -34,7 +34,8 @@ public class App {
     }
 
     public static void main(String[] args) {
-        add2();
+	    App app = new App();
+	    app.add2();
     }
 }
 
