@@ -7,9 +7,9 @@ public class App {
 	int z = 30;
 	int sum;
 
-	System.out.print("x: 10");
-	System.out.print("y: 20");
-	System.out.print("z: 30");
+	System.out.println("x: 10");
+	System.out.println("y: 20");
+	System.out.println("z: 30");
 
 	sum = x + y + z;
 
