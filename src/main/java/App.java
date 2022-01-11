@@ -1,6 +1,6 @@
 public class App {
 
-    public void add2()
+    public static void add2()
     {
 	int x = 10;
 	int y = 20;
