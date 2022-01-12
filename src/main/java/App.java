@@ -17,7 +17,7 @@ public class App {
 //	System.out.println("sum: "+sum);
 //	System.out.println(" ");
 //
-	return 50;
+	return sum;
     }
 
     public static void main(String[] args)
