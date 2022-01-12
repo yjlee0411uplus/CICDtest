@@ -8,7 +8,7 @@ public class AppTest {
     @Test public void testAppHasAGreeting() 
     {
 	    App testApp = new App();
-	    assertEquals("sum: 60", testApp.add2());
+	    assertEquals(60, testApp.add2());
     }
 }
 

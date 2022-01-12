@@ -1,6 +1,6 @@
 public class App {
 
-    public static void add2()
+    public static int add2()
     {
 	int x = 10;
 	int y = 20;
@@ -14,8 +14,10 @@ public class App {
 	sum = x + y + z;
 
 //	System.out.println(" ");
-	System.out.println("sum: "+sum);
+//	System.out.println("sum: "+sum);
 //	System.out.println(" ");
+//
+	return sum;
     }
 
     public static void main(String[] args)
