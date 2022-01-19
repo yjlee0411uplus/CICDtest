@@ -17,8 +17,8 @@ public class App {
 	System.out.println("sum: "+sum);
 	System.out.println(" ");
 
-	return sum;
-//	return 10;
+//	return sum;
+	return 10;
     }
 
     public static void main(String[] args)
